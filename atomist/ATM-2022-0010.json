@@ -18,7 +18,7 @@
         {
             "package": {
                 "ecosystem": "NPM",
-                "name": "reveal.jssss"
+                "name": "reveal.js"
             },
             "ranges": [
                 {
