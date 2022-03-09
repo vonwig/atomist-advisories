@@ -4,5 +4,5 @@
   "foo": "bar",
   "modified": "2022-02-08T20:31:56Z",
   "published": "2021-12-10T00:40:56Z",
-  "aliases": "CVE-2022-12223"
+  "aliases": ["CVE-2022-12223"]
 }
