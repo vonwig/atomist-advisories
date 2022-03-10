@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.2.0",
+  "id": "V-2022-0001",
+  "published": "2022-03-10T16:47:06Z",
+  "modified": "2022-03-10T16:47:06Z",
+  "aliases": [
+    "CVE-2022-1202"
+  ],
+  "summary": "",
+  "details": "",
+  "severity": [],
+  "affected": [],
+  "references": [],
+  "database_specific": {
+    "cwe_ids": [
+      ""
+    ],
+    "severity": "CRITICAL"
+  }
+}
