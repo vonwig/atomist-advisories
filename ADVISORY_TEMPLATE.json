@@ -3,48 +3,44 @@
   "id": "V-2022-0001",
   "modified": "2022-01-01T00:00:00Z",
   "published": "2022-01-01T00:00:00Z",
-  "aliases": [
-	"CVE-2022-xxxx"
-  ],
+  "aliases": ["CVE-2022-xxxx"],
   "summary": "",
   "details": "",
   "severity": [
-	{
-	  "type": "CVSS_V3",
-	  "score": ""
-	}
+    {
+      "type": "CVSS_V3",
+      "score": ""
+    }
   ],
   "affected": [
-	{
-	  "package": {
-		"ecosystem": "NPM",
-		"purl": "pkg:npm/hello-world"
-	  },
-	  "ranges": [
-		{
-		  "type": "ECOSYSTEM",
-		  "events": [
-			{
-			  "introduced": "0"
-			},
-			{
-			  "fixed": "1.0.0"
-			}
-		  ]
-		}
-	  ]
-	}
+    {
+      "package": {
+        "ecosystem": "NPM",
+        "purl": "pkg:npm/hello-world"
+      },
+      "ranges": [
+        {
+          "type": "ECOSYSTEM",
+          "events": [
+            {
+              "introduced": "0"
+            },
+            {
+              "fixed": "1.0.0"
+            }
+          ]
+        }
+      ]
+    }
   ],
   "references": [
-	{
-	  "type": "ADVISORY",
-	  "url": "https://nvd.nist.gov/vuln/detail/CVE-2022-xxxx"
-	}
+    {
+      "type": "ADVISORY",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2022-xxxx"
+    }
   ],
   "database_specific": {
-	"cwe_ids": [
-	  "CWE-xxx"
-	],
-	"severity": "CRITICAL|HIGH|MEDIUM|LOW",
+    "cwe_ids": ["CWE-xxx"],
+    "severity": "CRITICAL|HIGH|MEDIUM|LOW"
   }
 }
