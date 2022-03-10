@@ -11,7 +11,11 @@ this database.
 
 <!-- atomist-advisory:start -->
 
-id: vonwig/V-2022-{{increment}} cve ids:  
-cwe ids: severity: summary: details:
+id: vonwig/V-2022-{{increment}} 
+cve ids:  
+cwe ids: 
+severity: 
+summary: 
+details:
 
 <!-- atomist-advisory:end -->
