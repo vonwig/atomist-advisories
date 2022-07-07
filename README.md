@@ -86,7 +86,7 @@ repository.
     "references": [
         {
             "type": "ADVISORY",
-            "url": "https://nvd.nist.gov/vuln/detail/CVE-2022-0654"
+            "url": "https://dso.atomist.com/AQ1K5FIKA/overview/cve/ATM-2022-0001"
         }
     ],
     "database_specific": {
