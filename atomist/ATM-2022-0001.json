@@ -18,8 +18,8 @@
         {
             "package": {
                 "ecosystem": "alpine",
-                "name": "busybox1",
-                "purl": "pkg:alpine/busybox1?os_name=alpine&os_version=3.14"
+                "name": "busybox",
+                "purl": "pkg:alpine/busybox?os_name=alpine&os_version=3.14"
             },
             "ranges": [
                 {
