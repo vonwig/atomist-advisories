@@ -76,7 +76,7 @@ repository.
                             "introduced": "0"
                         },
                         {
-                            "fixed": "1.33.1-r7"
+                            "fixed": "1.33.1-r8"
                         }
                     ]
                 }
