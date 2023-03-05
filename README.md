@@ -47,9 +47,9 @@ repository.
 ```json
 {
     "schema_version": "1.2.0",
-    "id": "ATM-2022-0001",
-    "modified": "2022-02-08T20:31:56Z",
-    "published": "2021-12-10T00:40:56Z",
+    "id": "ATM-2023-0001",
+    "modified": "2023-03-02T20:31:56Z",
+    "published": "2023-03-02T00:40:56Z",
     "aliases": [
         "CVE-2022-0654"
     ],
