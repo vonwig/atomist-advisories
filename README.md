@@ -1,4 +1,4 @@
-# Atomist Vulnerability and Advisory DB
+# Scout Vulnerability and Advisory DB
 
 This repository contains private advisories to be managed as part of the Atomist
 Vulnerability Database. Information in this repository will not be part of the
