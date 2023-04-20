@@ -9,7 +9,7 @@
     {
       "vulnerability": "CVE-2022-29244",
       "products": [
-        "pkg:vonwig/nodejs-service"
+        "pkg:docker/vonwig/nodejs-service"
       ],
       "subcomponents": [
         "pkg:npm/npm@7.17.0"
