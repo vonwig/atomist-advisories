@@ -15,7 +15,7 @@
         "pkg:npm/npm@7.17.0"
       ],
       "status": "not_affected",
-      "justification": "vulnerable_code_present",
+      "justification": "vulnerable_code_not_present",
       "impact_statement": "NPM is not used at runtime of the container"
     }
   ]
