@@ -64,9 +64,9 @@ repository.
     "affected": [
         {
             "package": {
-                "ecosystem": "alpine",
-                "name": "busybox",
-                "purl": "pkg:alpine/busybox?os_name=alpine&os_version=3.14"
+                "ecosystem": "npm",
+                "name": "express",
+                "purl": "pkg:npm/express"
             },
             "ranges": [
                 {
@@ -76,7 +76,7 @@ repository.
                             "introduced": "0"
                         },
                         {
-                            "fixed": "1.33.1-r8"
+                            "fixed": "4.18.2"
                         }
                     ]
                 }
