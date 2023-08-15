@@ -7,7 +7,7 @@ global Atomist Vulnerability Database.
 Advisories are managed in JSON files placed in directories of this repository.
 
 ## Managing Advisories
-
+  
 ### Adding Advisories
 
 Creating new advisories can be achieved by either creating a new JSON advisory
