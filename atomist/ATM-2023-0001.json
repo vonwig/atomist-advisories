@@ -3,7 +3,7 @@
     "id": "ATM-2023-0001",
     "modified": "2023-03-02T20:31:56Z",
     "published": "2023-03-02T00:40:56Z",
-    "aliases": [
+    "_aliases": [
         "CVE-2022-0654"
     ],
     "summary": "Remote code injection",
@@ -29,7 +29,7 @@
                             "introduced": "0"
                         },
                         {
-                            "fixed": "4.18.2"
+                            "fixed": "4.18.3"
                         }
                     ]
                 }
